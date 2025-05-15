@@ -2,6 +2,8 @@
 
 A web application built with **React**, **Tailwind CSS**, and **Firebase** to simplify the process of splitting bills among group members. This project supports different bill-splitting methods and offers a clean, responsive user interface.
 
+🔗 **Live App**: [https://splitbill-cb927.firebaseapp.com/login](https://splitbill-cb927.firebaseapp.com/login)
+
 ---
 
 ## 🚀 Tech Stack
